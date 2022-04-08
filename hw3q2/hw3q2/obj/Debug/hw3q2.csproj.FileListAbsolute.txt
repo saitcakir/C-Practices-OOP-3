@@ -1,0 +1,9 @@
+C:\Users\sait2\source\repos\hw3q2\hw3q2\bin\Debug\hw3q2.exe
+C:\Users\sait2\source\repos\hw3q2\hw3q2\bin\Debug\hw3q2.pdb
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.csproj.AssemblyReference.cache
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.Form1.resources
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.Properties.Resources.resources
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.csproj.GenerateResource.cache
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.csproj.CoreCompileInputs.cache
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.exe
+C:\Users\sait2\source\repos\hw3q2\hw3q2\obj\Debug\hw3q2.pdb
